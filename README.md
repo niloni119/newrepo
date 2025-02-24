@@ -1,3 +1,5 @@
+ATTENTION!!! THE CODE OF PROJECT LOCATED IN "SRC"(SORCE)!!!!!!!!!!!!!!!!!!!!!
+
 Java Code for Number Conversion to Kyrgyz
 
 Overview
