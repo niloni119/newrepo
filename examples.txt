@@ -1,0 +1,41 @@
+C:\Users\User\.jdks\openjdk-23.0.2\bin\java.exe "-javaagent:E:\IntelliJ IDEA Community Edition 2024.3.2\lib\idea_rt.jar=53061:E:\IntelliJ IDEA Community Edition 2024.3.2\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\User\IdeaProjects\numbers\out\production\numbers Main
+Enter number from 0 to 99999: 0
+Your number in kyrgyz: Нөл
+
+Process finished with exit code 0
+
+C:\Users\User\.jdks\openjdk-23.0.2\bin\java.exe "-javaagent:E:\IntelliJ IDEA Community Edition 2024.3.2\lib\idea_rt.jar=53603:E:\IntelliJ IDEA Community Edition 2024.3.2\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\User\IdeaProjects\numbers\out\production\numbers Main
+Enter number from 0 to 99999: 7
+Your number in kyrgyz: Жети
+
+Process finished with exit code 0
+
+C:\Users\User\.jdks\openjdk-23.0.2\bin\java.exe "-javaagent:E:\IntelliJ IDEA Community Edition 2024.3.2\lib\idea_rt.jar=53641:E:\IntelliJ IDEA Community Edition 2024.3.2\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\User\IdeaProjects\numbers\out\production\numbers Main
+Enter number from 0 to 99999: 94
+Your number in kyrgyz: Токсон Төрт
+
+Process finished with exit code 0
+
+C:\Users\User\.jdks\openjdk-23.0.2\bin\java.exe "-javaagent:E:\IntelliJ IDEA Community Edition 2024.3.2\lib\idea_rt.jar=53644:E:\IntelliJ IDEA Community Edition 2024.3.2\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\User\IdeaProjects\numbers\out\production\numbers Main
+Enter number from 0 to 99999: 10
+Your number in kyrgyz: Он
+
+Process finished with exit code 0
+
+C:\Users\User\.jdks\openjdk-23.0.2\bin\java.exe "-javaagent:E:\IntelliJ IDEA Community Edition 2024.3.2\lib\idea_rt.jar=53649:E:\IntelliJ IDEA Community Edition 2024.3.2\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\User\IdeaProjects\numbers\out\production\numbers Main
+Enter number from 0 to 99999: 100
+Your number in kyrgyz: Бир Жүз
+
+Process finished with exit code 0
+
+C:\Users\User\.jdks\openjdk-23.0.2\bin\java.exe "-javaagent:E:\IntelliJ IDEA Community Edition 2024.3.2\lib\idea_rt.jar=53652:E:\IntelliJ IDEA Community Edition 2024.3.2\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\User\IdeaProjects\numbers\out\production\numbers Main
+Enter number from 0 to 99999: 9045
+Your number in kyrgyz: Тогуз Миң Кырк Беш
+
+Process finished with exit code 0
+
+C:\Users\User\.jdks\openjdk-23.0.2\bin\java.exe "-javaagent:E:\IntelliJ IDEA Community Edition 2024.3.2\lib\idea_rt.jar=53704:E:\IntelliJ IDEA Community Edition 2024.3.2\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\User\IdeaProjects\numbers\out\production\numbers Main
+Enter number from 0 to 99999: 99999
+Your number in kyrgyz: Тогуз Миң Тогуз Жүз Токсон Тогуз
+
+Process finished with exit code 0
